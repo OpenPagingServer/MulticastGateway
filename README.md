@@ -1,5 +1,5 @@
 # MulticastGateway
-The Open Paging Server multicast gateway allows easy transmission of multicast packets between WAN and VPN tunnels
+Allows easy transmission of multicast packets between WAN and VPN tunnels
 
 ## Supported configugrationsn
 The OPS multicast gateway supports:
