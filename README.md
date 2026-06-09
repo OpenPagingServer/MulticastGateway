@@ -1,5 +1,5 @@
 # MulticastGateway
-Allows easy transmission of multicast packets between WAN and VPN tunnels
+Allows easy transmission of multicast packets between WAN endpoints and in VPN tunnels
 
 Multicast packets are sent as Unicast and resent as Multicast by the gateway.
 
